@@ -1,0 +1,6 @@
+{
+  "local":"http://192.168.16.166:8097",
+  "local_images":"http://192.168.16.166:8888/",
+  "label":"/home/zhaoliu/power_server/models/label.pbtxt",
+  "model":"/home/zhaoliu/power_server/models/frozen_inference_graph.pb"
+}

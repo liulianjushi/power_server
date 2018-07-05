@@ -1,0 +1,8 @@
+Flask==0.12.2
+numpy==1.14.2
+requests==2.18.4
+six==1.11.0
+tensorflow==1.7.0
+object_detection==0.1
+Pillow==5.2.0
+protobuf==3.6.0
