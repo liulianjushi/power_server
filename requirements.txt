@@ -1,8 +1,9 @@
-Flask==0.12.2
-numpy==1.14.2
+tensorflow==1.8.0
 requests==2.18.4
+Flask==0.12.2
+bunch==1.0.1
+numpy==1.14.5
 six==1.11.0
-tensorflow==1.7.0
-object_detection==0.1
+opencv_python==3.4.0.12
 Pillow==5.2.0
 protobuf==3.6.0
